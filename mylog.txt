@@ -1,0 +1,5 @@
+Epoch 0 : Validation Loss : 0.2545146346092224
+Epoch 1 : Validation Loss : 0.29834213852882385
+Epoch 2 : Validation Loss : 0.25366824865341187
+Epoch 3 : Validation Loss : 0.2909981906414032
+Epoch 4 : Validation Loss : 0.29037705063819885
